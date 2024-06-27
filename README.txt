@@ -1,4 +1,4 @@
-1- faça o dowload
+1- faça o download
 	git clone https://github.com/zatarasbck/scandomain.git
 
 2- Dê permissão de execução 
